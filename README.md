@@ -43,7 +43,6 @@ ContactView.swift	Displays company contact info
 Model/	Holds data models for bounce houses and bookings
 Assets.xcassets/	Images, icons, and visual assets used in the app
 GoogleService-Info.plist	Firebase configuration file (needed to connect to backend)
-Neighborhood Bounce.xcodeproj	Main Xcode project file
 README.md	This file — explains how to run and understand the project
 
 ##Future Enhancements
